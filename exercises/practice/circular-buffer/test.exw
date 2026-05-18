@@ -1,3 +1,4 @@
+without warning -- (suppress warning re buffer on line 272 in builtins/pfile.e, after "global struct buffer")
 include circular-buffer.e
 
 --<do not edit>
