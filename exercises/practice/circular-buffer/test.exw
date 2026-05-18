@@ -1,6 +1,7 @@
 without warning -- (suppress warning re buffer on line 272 in builtins/pfile.e, after "global struct buffer")
 --include builtins\pfile.e -- alternative fix...
 --include builtins\pgetpath.e -- .. and this too
+--.. or make it "global struct circular_buffer" instead/thoughout...
 include circular-buffer.e
 
 --<do not edit>
