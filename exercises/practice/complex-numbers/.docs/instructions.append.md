@@ -9,4 +9,4 @@ You may use the [online][[online] copy of the docs, though if you have installed
 
 Should you want to learn how complex number arithmetic is implemented, you can do no better than to examine the source code of that standard component, at least generally speaking - I am not going to deny there may be slightly better algorithms out there for one or two things, that could be faster or more precise or both.
 
-[online]:(http://phix.x10.mx/docs/html/phix.htm)
+[online]:(https://phix.x10.mx/docs/html/phix.htm)
